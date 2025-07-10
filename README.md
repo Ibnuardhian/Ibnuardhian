@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ibnuardhian
-- 👀 I’m interested in Back-ned Web development and Databases related
+- 👀 I’m interested in Fullstacck Web development, Project Management and Database Engineering
 - 🌱 I’m currently learning Golang, Javascript and Postgreql
 - 👯 I’m looking to collaborate on web or mobile apps projects
 - 🤔 I’m open for advice on my coding projects
